@@ -54,9 +54,9 @@ int main(int argc, char *argv[])
                 );
 
 
-    qmlRegisterType<Comic>("com.github.rubdos.harbourXkcd", 1, 0, "Comic");
-    qmlRegisterType<ComicModel>("com.github.rubdos.harbourXkcd", 1, 0, "ComicModel");
-    qmlRegisterType<ComicController>("com.github.rubdos.harbourXkcd", 1, 0, "ComicController");
+    qmlRegisterType<Comic>("harbour.xkcd", 1, 0, "Comic");
+    qmlRegisterType<ComicModel>("harbour.xkcd", 1, 0, "ComicModel");
+    qmlRegisterType<ComicController>("harbour.xkcd", 1, 0, "ComicController");
 
 
 
