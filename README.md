@@ -5,7 +5,7 @@ A simple unofficial XKCD comic viewer for SailfishOS written in C++ and QML. A b
 
 Warning: this comic occasionally contains strong language (which may be unsuitable for children), unusual humor (which may be unsuitable for adults), and advanced mathematics (which may be unsuitable for liberal-arts majors).
 
-Copyright 2015 Ruben De Smet. Comics, text, images, other content and the "XKCD" word belong to Randell Monroe.
+Copyright 2015 Ruben De Smet. Comics, text, images, other content and the "XKCD" word belong to Randall Monroe.
 
 License and copyright
 ---------------------
